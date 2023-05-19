@@ -1,0 +1,21 @@
+.p__text {
+    background-color: rgb(197, 23, 23);
+    color: white;
+    max-width: 420px;
+    padding-left: 40px;
+    padding-top: 18px;
+    padding-bottom:18px;
+    padding-right: 40px;
+    font-size: 14px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.shop_link {
+    color: white;
+    text-decoration: none;
+}
+
+.shop_link:hover {
+    text-decoration: underline;
+}
